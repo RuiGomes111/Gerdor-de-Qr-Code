@@ -48,6 +48,10 @@
         padding: 10px;
   }
 
+  #qrcode{
+    width:80px;
+    height:80px
+  }
  .container input {
     width: 100%; 
     max-width: 150px; 
